@@ -1,35 +1,32 @@
 class Solution {
-    public int[][] merge(int[][] intervals) {
+    public int[][] merge(int[][] nums) {
+        int n = nums.length;
 
-        // 1. Sort by start time
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(nums, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> result = new ArrayList<>();
+        List<int[]> ans = new ArrayList<>();
 
-        // 2. Start with the first interval
-        int start = intervals[0][0];
-        int end = intervals[0][1];
+        for (int i = 0; i < nums.length; i++) {
 
-        // 3. Process remaining intervals
-        for (int i = 1; i < intervals.length; i++) {
+            int start = nums[i][0];
+            int end = nums[i][1];
 
-            // Overlapping
-            if (intervals[i][0] <= end) {
-                end = Math.max(end, intervals[i][1]);
+            if (!ans.isEmpty() && end <= ans.get(ans.size() - 1)[1]) {
+                continue;
             }
 
-            // Non-overlapping
-            else {
-                result.add(new int[]{start, end});
+            for (int j = i + 1; j < n; j++) {
 
-                start = intervals[i][0];
-                end = intervals[i][1];
+                if (nums[j][0] <= end) {
+                    end = Math.max(end, nums[j][1]);
+                } else {
+                    break;
+                }
             }
+
+            ans.add(new int[] { start, end });
         }
 
-        // 4. Add the last interval
-        result.add(new int[]{start, end});
-
-        return result.toArray(new int[result.size()][]);
+        return ans.toArray(new int[ans.size()][]);
     }
 }
