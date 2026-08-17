@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0792-binary-search) |
+| [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Sorting
 |  |
 | ------- |
