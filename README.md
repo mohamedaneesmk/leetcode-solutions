@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0792-binary-search) |
