@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
