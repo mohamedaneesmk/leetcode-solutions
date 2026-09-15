@@ -1,44 +1,60 @@
 class Solution {
 
-    public static int findCount(int[] nums, int mid) {
-        int studentsCount = 1, currentPages = 0;
+    // Returns how many subarrays are needed
+    // if the maximum allowed subarray sum is maxSum.
+    public static int countSubarrays(int[] nums, int maxSum) {
+
+        int subarrayCount = 1;
+        int currentSum = 0;
 
         for (int num : nums) {
-            if (num + currentPages <= mid) {
-                currentPages += num;
+
+            if (currentSum + num <= maxSum) {
+                currentSum += num;
             } else {
-                studentsCount++;
-                currentPages = num;
+                subarrayCount++;
+                currentSum = num;
             }
         }
 
-        return studentsCount;
+        return subarrayCount;
     }
 
-    public static int findPages(int[] nums, int k) {
+    public static int findMinimumLargestSum(int[] nums, int k) {
+
+        // Minimum possible answer = largest element.
         int low = Integer.MIN_VALUE;
+
+        // Maximum possible answer = sum of all elements.
         int high = 0;
 
         for (int num : nums) {
-            if (num > low)
-                low = Math.max(num, low);
+            low = Math.max(low, num);
             high += num;
         }
 
+        // Binary search on the answer.
         while (low <= high) {
-            int mid = low + (high - low) / 2;
-            int requiredStudents = findCount(nums, mid);
 
-            if (requiredStudents > k)
+            int mid = low + (high - low) / 2;
+
+            int requiredSubarrays = countSubarrays(nums, mid);
+
+            if (requiredSubarrays > k) {
+                // We need too many subarrays.
+                // Increase the allowed maximum sum.
                 low = mid + 1;
-            else
+            } else {
+                // We can split into k or fewer subarrays.
+                // Try to find a smaller maximum sum.
                 high = mid - 1;
+            }
         }
 
         return low;
     }
 
     public int splitArray(int[] nums, int k) {
-        return findPages(nums, k);
+        return findMinimumLargestSum(nums, k);
     }
 }
