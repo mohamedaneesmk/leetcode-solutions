@@ -177,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## String
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
