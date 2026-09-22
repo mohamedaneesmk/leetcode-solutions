@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Newton's Method
 |  |
 | ------- |
