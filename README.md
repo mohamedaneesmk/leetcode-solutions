@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0864-image-overlap](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0864-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
