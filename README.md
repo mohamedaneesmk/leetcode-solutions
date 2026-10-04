@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
 |  |
 | ------- |
