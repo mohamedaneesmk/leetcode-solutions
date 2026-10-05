@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Simulation
