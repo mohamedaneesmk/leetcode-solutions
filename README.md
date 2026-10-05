@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
