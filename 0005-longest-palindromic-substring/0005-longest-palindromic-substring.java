@@ -2,11 +2,11 @@ class Solution {
     public String longestPalindrome(String s) {
         if (s == null || s.length() < 1) return "";
 
-        int start = 0, maxLen = 1;
+        int maxLen = 1, start = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            int len1 = expand(s, i, i);       // odd-length center
-            int len2 = expand(s, i, i + 1);   // even-length center
+            int len1 = expand(s, i, i);     // Odd Length
+            int len2 = expand(s, i, i + 1); // Even Length
             int len = Math.max(len1, len2);
 
             if (len > maxLen) {
@@ -15,14 +15,15 @@ class Solution {
             }
         }
 
-        return s.substring(start, start + maxLen);
+        return s.substring(start, maxLen + start);
     }
 
-    private int expand(String s, int left, int right) {
+    public static int expand(String s, int left, int right) {
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
             left--;
             right++;
         }
-        return right - left - 1;   // length of palindrome found
+
+        return right - left - 1;
     }
 }
