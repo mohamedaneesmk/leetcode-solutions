@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -268,8 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
