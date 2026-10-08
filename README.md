@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0050-powx-n) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
