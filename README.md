@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
