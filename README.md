@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
