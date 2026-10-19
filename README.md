@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
