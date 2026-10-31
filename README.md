@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3799-unique-3-digit-even-numbers](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3460-count-the-number-of-inversions](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3460-count-the-number-of-inversions) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Sorting
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0864-image-overlap) |
 | [1901-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
