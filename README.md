@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohamedaneesmk/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
